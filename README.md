@@ -1,4 +1,4 @@
 # Lab 5 Test File
-"THIS MIGHT CAUSE MERGE CONFLICT"
+THIS WILL CAUSE A MERGE CONFLICT
 Devan McCallum
 Partner: Jonathan Meade
